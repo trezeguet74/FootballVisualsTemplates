@@ -1,4 +1,5 @@
 # FootballVisualsTemplates
 Football Visualization Templates
-![Manchester City vs Crystal Palace - Premier League](https://user-images.githubusercontent.com/80650976/187047518-ef36802f-160a-4925-af0c-a9d71bf7b4a5.png)
-![Erling Haaland vs Crystal Palace](https://user-images.githubusercontent.com/80650976/187047521-4ce30f33-11df-4cdb-a74e-b5afa8d53a7a.jpg)
+![Bayern Munich vs Athletic Club - LaLiga Santander](https://user-images.githubusercontent.com/80650976/187550781-a5da2b58-f623-4c35-a384-f84747e8e62e.png)
+![Álvaro Morata vs Valencia](https://user-images.githubusercontent.com/80650976/187550846-e8f3e7a8-1da7-4bc6-922e-5456cf0e6bc2.jpg)
+![ vs Real Valladolid](https://user-images.githubusercontent.com/80650976/187550854-53270c31-bbb3-4247-aaa0-a65c8296125a.jpg)
