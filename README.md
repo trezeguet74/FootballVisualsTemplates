@@ -1,4 +1,3 @@
-# FootballVisualsTemplates
 
 Football Visualization Templates
 
