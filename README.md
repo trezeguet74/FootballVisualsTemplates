@@ -16,5 +16,5 @@ Football Visualization Templates
 *Goal keeper saves for a season*
 ![gkarsenal](https://user-images.githubusercontent.com/80650976/188284547-ebccb22f-3ccc-4468-af46-501c03ef913d.png)
 
-*To be completed soon*
-![trial](https://user-images.githubusercontent.com/80650976/188284383-a1323d2b-b160-4bd6-8ac3-e4fdb602f6ad.png)
+*Player comparison to all players*
+![Kevin De Bruyne scatter plot](https://user-images.githubusercontent.com/80650976/188630496-1282bb26-bccf-4b21-9cbc-7642c36f8369.png)
