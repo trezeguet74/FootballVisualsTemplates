@@ -18,3 +18,6 @@ Football Visualization Templates
 
 *Player comparison to all players*
 ![Kevin De Bruyne scatter plot](https://user-images.githubusercontent.com/80650976/188630496-1282bb26-bccf-4b21-9cbc-7642c36f8369.png)
+
+*Scatter plot with logos*
+![Plot2](https://user-images.githubusercontent.com/80650976/189486787-e904dece-38c6-4fa4-871f-88759b717f98.png)
