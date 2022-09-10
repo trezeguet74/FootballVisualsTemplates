@@ -21,3 +21,6 @@ Football Visualization Templates
 
 *Scatter plot with logos*
 ![Plot2](https://user-images.githubusercontent.com/80650976/189486787-e904dece-38c6-4fa4-871f-88759b717f98.png)
+
+ *Player Dashboard*
+ ![Robert Lewandowski Player Dashboard](https://user-images.githubusercontent.com/80650976/189500031-e221755a-abe1-4855-ab4b-3c4699a70262.png)
